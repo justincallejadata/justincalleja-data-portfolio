@@ -41,6 +41,6 @@ This portfolio showcases my work across **EDA, machine learning, big data pipeli
 ---
 
 ## 📫 Contact
-- [LinkedIn]([LINK](https://www.linkedin.com/in/justincalleja/))  
+- [LinkedIn] (https://www.linkedin.com/in/justincalleja/)  
 - [Email](justinmitchelcalleja@gmail.com)
 
