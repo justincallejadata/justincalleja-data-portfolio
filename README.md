@@ -32,6 +32,15 @@ This portfolio showcases my work across **EDA, machine learning, big data pipeli
 
 ---
 
+### 5. Dates vs Derivatives (EDA + Visualization)
+
+- **Goal:** Explore the relationship between academic workload (derivatives calculated) and social activity (dates per year).
+- **Skills:** Python, Matplotlib, Pandas, Exploratory Data Analysis (EDA)
+- [View Dashboard][Uploading dates-vs-derivatives (1).ipynb…]()
+
+
+---
+
 ## 🛠️ Tools & Skills
 - **Languages:** Python (pandas, NumPy, scikit-learn), SQL, PySpark  
 - **Visualization:** matplotlib, seaborn, Tableau, Power BI  
