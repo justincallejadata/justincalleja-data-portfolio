@@ -37,7 +37,7 @@ This portfolio showcases my work in **EDA, machine learning, big data pipelines,
 
 - **Goal:** Explore the relationship between academic workload (derivatives calculated) and social activity (dates per year).
 - **Skills:** Python, Matplotlib, Pandas, Exploratory Data Analysis (EDA)
-- [View Dashboard]
+- [Dates VS Derivates](https://github.com/justincallejadata/Portfolio-Notebooks/blob/75242f45fdb61fe1639e3456a27e75dabfe0e503/dates-vs-derivatives_final.ipynb)
 
 
 ---
