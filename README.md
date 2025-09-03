@@ -45,7 +45,7 @@ This portfolio showcases my work in **EDA, machine learning, big data pipelines,
 ### 5. Video Game Success Analysis
 - **Goal:** Analyzed a large dataset to identify the key factors (publisher, genre, critic scores) that contribute to the global success of a video game.
 - **Skills:** Python, Pandas, Matplotlib, Seaborn, Data Cleaning, Exploratory Data Analysis (EDA).
-- Video_Game_Success_Analysis_Final.ipynb
+- [Video_Game_Success_Analysis_Final.ipynb](https://github.com/justincallejadata/Portfolio-Notebooks/blob/30d8f09f28a68fedcce38485b33319b99fe0232f/Video_Game_Success_Analysis_Final.ipynb)
 
 
 ---
