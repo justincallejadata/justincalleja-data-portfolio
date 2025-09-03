@@ -32,7 +32,7 @@ This portfolio showcases my work across **EDA, machine learning, big data pipeli
 
 ---
 
-### 5. Dates vs Derivatives (EDA + Visualization)
+### 4. Dates vs Derivatives (EDA + Visualization)
 
 - **Goal:** Explore the relationship between academic workload (derivatives calculated) and social activity (dates per year).
 - **Skills:** Python, Matplotlib, Pandas, Exploratory Data Analysis (EDA)
@@ -40,6 +40,12 @@ This portfolio showcases my work across **EDA, machine learning, big data pipeli
 
 
 ---
+
+### 5. Video Game Success Analysis
+- **Goal:** Analyzed a large dataset to identify the key factors (publisher, genre, critic scores) that contribute to the global success of a video game.
+- **Skills:** Python, Pandas, Matplotlib, Seaborn, Data Cleaning, Exploratory Data Analysis (EDA).
+- 
+
 
 ## 🛠️ Tools & Skills
 - **Languages:** Python (pandas, NumPy, scikit-learn), SQL, PySpark  
