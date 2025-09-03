@@ -55,7 +55,7 @@ This portfolio showcases my work in **EDA, machine learning, big data pipelines,
 
 - **Goal:** Used MongoDB to query and analyze a Kaggle dataset on Madrid housing prices, identifying key price drivers like district, neighborhood, size, and amenities.
 - **Skills:** MongoDB, Data Analysis, Data Cleaning, JSON.
-- [Madrid Housing Market codes] (https://github.com/justincallejadata/Portfolio-Notebooks/blob/30df8d56c9163860aff2c2313cb93b080e9b73d1/Justin_Mitchel_Calleja_MadridHousePrices.js)
+- [Madrid Housing Market codes](https://github.com/justincallejadata/Portfolio-Notebooks/blob/30df8d56c9163860aff2c2313cb93b080e9b73d1/Justin_Mitchel_Calleja_MadridHousePrices.js)
   
 ---
 
@@ -63,7 +63,7 @@ This portfolio showcases my work in **EDA, machine learning, big data pipelines,
 
 - **Goal:** Developed an interactive dashboard in Tableau to analyze 2023 loan operations for a financial company, aiming to identify key trends, evaluate loan quality, and provide actionable insights for strategic decision-making.
 - **Skills:** Tableau, Data Modeling, Calculated Fields, Parameters, Interactive Dashboards, KPI Reporting.
-- [Financial Loan Analysis Dashboard] (https://public.tableau.com/app/profile/justin.calleja/viz/TareaTableau_Final_JustinMitchelCalleja/MainDashboard)
+- [Financial Loan Analysis Dashboard](https://public.tableau.com/app/profile/justin.calleja/viz/TareaTableau_Final_JustinMitchelCalleja/MainDashboard)
 
 
 ---
