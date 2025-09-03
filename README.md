@@ -26,10 +26,10 @@ This portfolio showcases my work in **EDA, machine learning, big data pipelines,
 
 ---
 
-### 3. Marketing Analytics Dashboard
-- **Goal:** Analyze campaign performance and Media Impact Value (MIV).  
-- **Skills:** Tableau, SQL, KPI reporting, storytelling with data.  
-- [View Dashboard](LINK)
+### 3. Video Game Success Analysis
+-- **Goal:** Analyzed a large dataset to identify the key factors (publisher, genre, critic scores) that contribute to the global success of a video game.
+-- **Skills:** Python, Pandas, Matplotlib, Seaborn, Data Cleaning, Exploratory Data Analysis (EDA).
+-- View Project Notebook
 
 ---
 
@@ -38,7 +38,6 @@ This portfolio showcases my work in **EDA, machine learning, big data pipelines,
 - **Goal:** Explore the relationship between academic workload (derivatives calculated) and social activity (dates per year).
 - **Skills:** Python, Matplotlib, Pandas, Exploratory Data Analysis (EDA)
 - [Dates VS Derivates](https://github.com/justincallejadata/Portfolio-Notebooks/blob/75242f45fdb61fe1639e3456a27e75dabfe0e503/dates-vs-derivatives_final.ipynb)
-
 
 ---
 
