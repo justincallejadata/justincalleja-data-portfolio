@@ -26,7 +26,7 @@ This portfolio showcases my work in **EDA, machine learning, big data pipelines,
 
 ---
 
-### 3. Madrid Traffic Accident Analysis & Visualization
+### 3. Madrid Traffic Accident Analysis & Visualization (Notebook is in Spanish language)
 - **Goal:** Analyzed and visualized traffic accident data for the districts of Madrid to identify key patterns related to time, weather, and location.
 - **Skills:** Python, Pandas, Folium, Geopandas, Matplotlib, Seaborn, Data Visualization, Geospatial Analysis.
 - [Análisis de la Accidentalidad Vial en Madrid](https://github.com/justincallejadata/Portfolio-Notebooks/blob/406a1cf19e25ac85605893a7b8f7f4bc99d9d2e8/DistrictsOfMadrid_Visualization.ipynb)
@@ -44,7 +44,7 @@ This portfolio showcases my work in **EDA, machine learning, big data pipelines,
 ### 5. Video Game Success Analysis
 - **Goal:** Analyzed a large dataset to identify the key factors (publisher, genre, critic scores) that contribute to the global success of a video game.
 - **Skills:** Python, Pandas, Matplotlib, Seaborn, Data Cleaning, Exploratory Data Analysis (EDA).
-- [Video_Game_Success_Analysis_Final.ipynb](https://github.com/justincallejadata/Portfolio-Notebooks/blob/30d8f09f28a68fedcce38485b33319b99fe0232f/Video_Game_Success_Analysis_Final.ipynb)
+- [Video_Game_Success_Analysis_Final] (https://github.com/justincallejadata/Portfolio-Notebooks/blob/30d8f09f28a68fedcce38485b33319b99fe0232f/Video_Game_Success_Analysis_Final.ipynb)
 
 
 ---
