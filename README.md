@@ -1,11 +1,12 @@
-# justincalleja-data-portfolio
-Portfolio of Data Science, Big Data, and Analytics projects: including EDA, machine learning, big data pipelines, and dashboards.
-
 # Justin Calleja – Data Science Portfolio
 
 Welcome!  
-I’m a Master’s student in **Data Science, Big Data & Analytics**.  
-This portfolio showcases my work across **EDA, machine learning, big data pipelines, and dashboards**.
+My name is Justin Mitchel Calleja, and I'm a Master’s student in Data Science, Big Data & Analytics at Universidad Complutense de Madrid.
+
+My professional journer began with a Bachelor's in International Studies, which led to roles in the Senate of the Philippines and later as an English teacher in Spain. 
+I am now transitioning into the data field and currently work as a Data Marketer at Launchmetrics.
+
+This portfolio showcases my work in **EDA, machine learning, big data pipelines, and dashboards.**
 
 ---
 
