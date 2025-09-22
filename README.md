@@ -68,6 +68,13 @@ This portfolio showcases my work in **EDA, machine learning, big data pipelines,
 
 ---
 
+### 8. 3005. Count Elements With Maximum Frequency (Leetcode)
+
+- **Goal:** Return the total frequencies of elements in nums such that those elements all have the maximum frequency.
+- **Skills:** Python, Counter
+- [3005. Count Elements With Maximum Frequency] https://leetcode.com/problems/count-elements-with-maximum-frequency?envType=daily-question&envId=2025-09-22
+
+
 
 ## 🛠️ Tools & Skills
 - **Languages:** Python (pandas, NumPy, scikit-learn), SQL, PySpark  
